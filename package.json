@@ -1,0 +1,21 @@
+{
+  "name": "m38testrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mz106/m38-test-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mz106/m38-test-repo/issues"
+  },
+  "homepage": "https://github.com/mz106/m38-test-repo#readme"
+}
